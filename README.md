@@ -516,7 +516,7 @@ assignment-1/
 ---
 
 
-**Repository:** [[GitHub Link - To be added](https://github.com/Gemeda4927/Java-Web-Service-Assignment)]  
+**Repository:** [[GitHub Link](https://github.com/Gemeda4927/Java-Web-Service-Assignment)]  
 **Submission Date:** October 23, 2025.
 
 ---
