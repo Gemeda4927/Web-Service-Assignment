@@ -12,7 +12,7 @@
 | 3 | **Gemeda Tamiru**  | RU0227/14 | Software | **Project Architecture & Integration** - Main classes, configuration, GitHub management |
 | 4 | **Siutayehu Bikila** | RU0207/14 | Software | **Postman Testing & Documentation** - Test collections, request/response documentation |
 | 5 | **Meron Mulu** | RU0477/14 | Software | **Error Handling & Validation** - Exception handling, input validation |
-| 6 | **Bekehu Endrias** | RU2501/13 | Software | **Build Configuration & Deployment** - Maven POM files, deployment setup |
+| 6 | **Bekalu Endrias** | RU2501/13 | Software | **Build Configuration & Deployment** - Maven POM files, deployment setup |
 
 ---
 
