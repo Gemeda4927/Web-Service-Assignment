@@ -515,14 +515,9 @@ assignment-1/
 
 ---
 
-## 📞 Contact Information
 
-**Team Leader:** Gemeda Tamiru  
-**Email:** gemedatam@gmail.com  
-**Phone:** +251 914363390
-
-**Repository:** [GitHub Link - To be added]  
-**Submission Date:** [Current Date]
+**Repository:** [[GitHub Link](https://github.com/Gemeda4927/Java-Web-Service-Assignment)]  
+**Submission Date:** October 23, 2025.
 
 ---
 
