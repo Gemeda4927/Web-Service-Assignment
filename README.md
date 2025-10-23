@@ -193,7 +193,7 @@ public double divide(double number1, double number2) throws IllegalArgumentExcep
 
 ### 📦 Build & Deployment
 
-#### **Task Lead: Bekehu Endrias**
+#### **Task Lead: Bekalu Endrias**
 
 **Step 1: Maven Configuration**
 - Created separate POM files for REST and SOAP services
