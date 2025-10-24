@@ -472,6 +472,10 @@ assignment-1/
 └── README.md
 ```
 
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/67cb25b8-d0bd-4755-8044-3fd87b54dd1a" />
+REST API Servic
+
+
 ### 🔄 Commit Strategy
 - **Initial commit:** Project structure setup
 - **Feature commits:** Individual component implementation
