@@ -473,7 +473,10 @@ assignment-1/
 ```
 
 <img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/67cb25b8-d0bd-4755-8044-3fd87b54dd1a" />
-REST API Servic
+REST API Service running ...
+<img width="1917" height="1001" alt="image" src="https://github.com/user-attachments/assets/f092f3f0-098f-4fcd-b62e-9c3b3513b2ad" />
+SOAP Web Service is running...
+
 
 
 ### 🔄 Commit Strategy
