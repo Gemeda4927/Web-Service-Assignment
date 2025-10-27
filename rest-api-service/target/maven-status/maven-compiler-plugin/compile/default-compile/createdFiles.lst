@@ -1,4 +1,4 @@
-com\example\restservice\resource\ProductResource.class
-com\example\restservice\config\AppConfig.class
-com\example\restservice\model\Product.class
-com\example\restservice\Main.class
+com/example/restservice/resource/ProductResource.class
+com/example/restservice/Main.class
+com/example/restservice/config/AppConfig.class
+com/example/restservice/model/Product.class

@@ -9,6 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.atomic.AtomicLong;
+import java.util.stream.Collectors;
 
 @Path("/products")
 @Produces(MediaType.APPLICATION_JSON)
@@ -100,7 +101,7 @@ public class ProductResource {
     public Response getProductsByCategory(@PathParam("category") String category) {
         List<Product> filteredProducts = products.values().stream()
                 .filter(product -> product.getCategory().equalsIgnoreCase(category))
-                .toList();
+                .collect(Collectors.toList()); // Java 11-compatible
         return Response.ok(filteredProducts).build();
     }
 }
