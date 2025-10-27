@@ -1,4 +1,4 @@
-com\example\soap\server\CalculatorPublisher.class
-com\example\soap\server\CalculatorServiceImpl.class
-com\example\soap\client\CalculatorClient.class
-com\example\soap\server\CalculatorService.class
+com/example/soap/server/CalculatorPublisher.class
+com/example/soap/server/CalculatorService.class
+com/example/soap/client/CalculatorClient.class
+com/example/soap/server/CalculatorServiceImpl.class
