@@ -272,6 +272,7 @@ GET http://localhost:8080/api/products
     }
 ]
 ```
+![alt text](image-1.png)
 
 **Observation:** ✅ Successfully retrieved all products with proper JSON formatting.
 
@@ -284,7 +285,7 @@ POST http://localhost:8080/api/products
 Content-Type: application/json
 
 {
-    "name": "Tablet",
+    "name": "Headset",
     "description": "10-inch Android tablet",
     "price": 299.99,
     "category": "Electronics"
@@ -295,12 +296,13 @@ Content-Type: application/json
 ```json
 {
     "id": 4,
-    "name": "Tablet",
+    "name": "Headset",
     "description": "10-inch Android tablet", 
     "price": 299.99,
     "category": "Electronics"
 }
 ```
+![alt text](image-8.png)
 
 **Observation:** ✅ Product created successfully with auto-generated ID.
 
@@ -330,6 +332,7 @@ Content-Type: application/json
     "category": "Electronics"
 }
 ```
+![alt text](image-2.png)
 
 **Observation:** ✅ Product updated successfully with new values.
 
@@ -338,14 +341,14 @@ Content-Type: application/json
 #### **Endpoint: DELETE /api/products/2**
 **Request:**
 ```http
-DELETE http://localhost:8080/api/products/2
+DELETE http://localhost:8080/api/products/1
 ```
 
 **Response (200 OK):**
 ```json
 "Product deleted successfully"
 ```
-
+![alt text](image-3.png)
 **Observation:** ✅ Product deleted successfully with confirmation message.
 
 ---
@@ -378,7 +381,7 @@ DELETE http://localhost:8080/api/products/2
     </S:Body>
 </S:Envelope>
 ```
-
+![alt text](image-7.png)
 **Observation:** ✅ SOAP service correctly processed addition operation.
 
 ---
@@ -403,12 +406,12 @@ DELETE http://localhost:8080/api/products/2
 <S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
     <S:Body>
         <ns2:sayHelloResponse xmlns:ns2="http://server.soap.example.com/">
-            <return>Hello, John! Welcome to SOAP Web Service.</return>
+            <return>Hello, Group one! Welcome to SOAP Web Service.</return>
         </ns2:sayHelloResponse>
     </S:Body>
 </S:Envelope>
 ```
-
+![alt text](image-6.png)
 **Observation:** ✅ String operation working correctly with personalized greeting.
 
 ---
